@@ -1,0 +1,2 @@
+These are bash projects
+
